@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 A .git folder with the metadata needed to keep track of the changes of
 the current directory is created. I need to do it to create a version
 control of the directory.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+It is a intermediate step, not to commit accidentally not desired files.
